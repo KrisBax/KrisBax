@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Just trying to learn and re-learn the things...
+Just trying to learn the things...
 
 <!--
 **KrisBax/KrisBax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
